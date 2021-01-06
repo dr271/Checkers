@@ -1,4 +1,4 @@
-A Java implementation of checkers complete with GUI and AI controlled oponent of varying difficulty levels through the use of minimax algorithm with alpha-beta pruning.
+A Java implementation of checkers complete with drag-and-drop GUI and AI controlled oponent of varying difficulty levels through the use of minimax algorithm with alpha-beta pruning.
 
 To build and run the program I would reccomend loading the ISTCheckers file up in an IDE of your choice (I used NetBeans) and run it from there.
 
