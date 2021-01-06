@@ -8,5 +8,5 @@ If you have any questions please do not hesitate to contact me.
 <p align="center">
   <img src="https://github.com/dr271/Checkers/blob/master/ReadmeImages-Checkers/Hints.png">
 </p>
-The above screenshot was taken with Hints toggled on - highlighting possible moves to the human player
+The above screenshot was taken with Hints toggled on - highlighting possible moves to the human player. 
 Options menu includes 'Reset Board', 'How to Play' and 'Toggle Hints'.
